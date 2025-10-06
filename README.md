@@ -66,7 +66,7 @@ Features include:
 
 ---
 
-## 📈 Key Insights  
+## Key Insights  
 - **Research & Development** and **Sales** departments recorded the **highest attrition counts** (133 and 92 respectively).  
 - Employees aged **under 25** and those working **overtime** show higher attrition rates.  
 - Lower **Job Satisfaction (levels 1–2)** corresponds with over **30% attrition rate**.  
